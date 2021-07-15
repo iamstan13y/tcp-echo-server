@@ -1,0 +1,6 @@
+c:\users\stanley brikkz\documents\visual studio 2015\Projects\TcpEchoServer\TcpEchoServer\bin\Debug\TcpEchoServer.exe.config
+c:\users\stanley brikkz\documents\visual studio 2015\Projects\TcpEchoServer\TcpEchoServer\bin\Debug\TcpEchoServer.exe
+c:\users\stanley brikkz\documents\visual studio 2015\Projects\TcpEchoServer\TcpEchoServer\bin\Debug\TcpEchoServer.pdb
+c:\users\stanley brikkz\documents\visual studio 2015\Projects\TcpEchoServer\TcpEchoServer\obj\Debug\TcpEchoServer.csprojResolveAssemblyReference.cache
+c:\users\stanley brikkz\documents\visual studio 2015\Projects\TcpEchoServer\TcpEchoServer\obj\Debug\TcpEchoServer.exe
+c:\users\stanley brikkz\documents\visual studio 2015\Projects\TcpEchoServer\TcpEchoServer\obj\Debug\TcpEchoServer.pdb
